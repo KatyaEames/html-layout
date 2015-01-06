@@ -1,14 +1,14 @@
 div.head {
-
+  background-color: #444;
 }
 div.left {
-
+  background-color: #d8d8d8;
 }
 div.right {
-
+  background-color: #d8d8d8;
 }
 div.foot {
-
+  background-color: #222;
 }
 body {
   background-color: #efefef;
