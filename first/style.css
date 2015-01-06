@@ -1,20 +1,20 @@
-div .head {
-  background-color: #444;
+div.head {
+  background-color: #444444;
   width: 100%;
   height: 10%;
 }
-div .left {
+div.left {
   background-color: #d8d8d8;
   width: 10%;
   height: 100%;
 }
-div .right {
+div.right {
   background-color: #d8d8d8;
   width: 10%;
   height:100%;
 }
-div .foot {
-  background-color: #222;
+div.foot {
+  background-color: #222222;
   width: 80%;
   height: 10%;
 }
