@@ -5,12 +5,18 @@ div.head {
 }
 div.left {
   background-color: #d8d8d8;
+  width: 10%;
+  height: 100%;
 }
 div.right {
   background-color: #d8d8d8;
+  width: 10%;
+  height:100%;
 }
 div.foot {
   background-color: #222;
+  width: 80%;
+  height: 10%;
 }
 body {
   background-color: #efefef;
